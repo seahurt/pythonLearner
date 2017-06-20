@@ -28,3 +28,6 @@ print(connect.phone('Bert'))
 # try 555-ITALY.html we get 404
 # try ITALY.html we get a msg:SMALL letters
 # try italy.html we get next level
+
+# level 17
+print(connect.phone('Leopold'))
